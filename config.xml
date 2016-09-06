@@ -17,6 +17,8 @@
       Louis Eksteen
   </author>
   
-  <uses-permission android:name="android.permission.INTERNET" />
+  <preference name="permissions" value="none"/>
+  <preference name="permissions" value="INTERNET"/>
+
 
 </widget>
