@@ -16,5 +16,7 @@
   <author href="http://griffininternet.host" email="servers@eksteen.biz">
       Louis Eksteen
   </author>
+  
+  <uses-permission android:name="android.permission.INTERNET" />
 
 </widget>
